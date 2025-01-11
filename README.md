@@ -1440,7 +1440,7 @@ Este método percorrerá todo o tabuleiro para verificar se todas as células co
 
    Se o laço iterar por todas as células do tabuleiro sem encontrar um navio (***NAVIO***), retornará ***true***, indicando que todos os navios foram afundados e a vitória foi alcançada. 
 
-38. Tratamento De Erros 
+# 38. Tratamento De Erros 
 
 O programa conta com tratamento de erros incluso dentro de suas funções onde é prevenida por exemplo, a não repetição de coordenadas por parte do usuário, assim como também a prevenção contra coordenadas de fora da área de tabuleiro  
 
@@ -1454,7 +1454,7 @@ O programa conta com tratamento de erros incluso dentro de suas funções onde �
 
 ***}*** 
 
-39. Conclusão 
+# 39. Conclusão 
 
 Este documento forneceu uma explicação detalhada das funcionalidades e lógicas implementadas para um jogo de tabuleiro baseado em batalha naval. Aqui está um resumo das principais seções abordadas: 
 
