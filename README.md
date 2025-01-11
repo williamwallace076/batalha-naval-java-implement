@@ -3,7 +3,7 @@
 BY: 
 
 William wallace da costa pereira - 202204940051
-leticia costa da silva - 202104940017
+Leticia costa da silva - 202104940017
 
 # Implementação do Jogo Batalha Naval 
 ## Introdução 
